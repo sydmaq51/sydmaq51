@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Syed Maqsood Ali
 - 👀 I’m a Detail-oriented Data Analyst
-- 🌱 I’m currently pandas, Matplotlib
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning pandas, Matplotlib
+- 💞️ I'm open for new oppurtunities
 - 📫 Reach me at sydmaq51@gmail.com
 
 <!---
